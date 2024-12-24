@@ -72,7 +72,7 @@ class Test{
         if(a==null){
             return 0;
         }
-        return levels(a.left)+levels(a.right);
+        return 1+Math.max(levels(a.left),levels(a.right));
     }
 
     public static void main(String[] args) {
