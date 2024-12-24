@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/02-SpringCore-Collection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-SpringCore-Collection/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-SpringAnnotationConfig-FieldInjection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-SpringAnnotationConfig-FieldInjection/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-SpringCore/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-SpringCore/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-SpringAnnotationConfig-MultipleTypes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-SpringAnnotationConfig-MultipleTypes/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-SpringRealTimeDI/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-SpringRealTimeDI/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07-SpringAnnotationConfig-LifeCycle/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07-SpringAnnotationConfig-LifeCycle/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-SpringSpelex/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-SpringSpelex/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-SpringCore-Scope/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-SpringCore-Scope/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-SpringCore-LMI/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-SpringCore-LMI/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11-SpringCore-MethodReplacer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11-SpringCore-MethodReplacer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12-SpringCore-schedulingApp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12-SpringCore-schedulingApp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
