@@ -74,6 +74,9 @@ class Test{
         }
         return 1+Math.max(levels(a.left),levels(a.right));
     }
+    public static int height(Node a){
+       return levels(a)-1;
+    }
 
     public static void main(String[] args) {
         Node a=new Node(-1);
@@ -95,6 +98,6 @@ class Test{
         System.out.println(minTree(a));
         System.out.println(size(a));
         System.out.println(levels(a));
-
+        System.out.println(height(a));
     }
 }
