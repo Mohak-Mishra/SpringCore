@@ -95,6 +95,6 @@ class Test{
         System.out.println(minTree(a));
         System.out.println(size(a));
         System.out.println(levels(a));
-        ;
+
     }
 }
